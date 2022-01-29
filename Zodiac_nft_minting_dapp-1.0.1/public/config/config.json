@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x43e93a9369Cc588a34F9f6ED97DD4b523e003331",
+  "SCAN_LINK": "https://www.smartscan.cash/address/0x43e93a9369Cc588a34F9f6ED97DD4b523e003331",
+  "NETWORK": {
+    "NAME": "SmartBCH",
+    "SYMBOL": "BCH",
+    "ID": 10000
+  },
+  "NFT_NAME": "8-bit Zodiac",
+  "SYMBOL": "8BZOD",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OASIS",
+  "MARKETPLACE_LINK": "https://oasis.cash/collection/0x43e93a9369Cc588a34F9f6ED97DD4b523e003331",
+  "SHOW_BACKGROUND": true
+}
